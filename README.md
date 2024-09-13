@@ -27,12 +27,12 @@
 
 ### Backend Skills:
 ![.NET](https://img.shields.io/badge/-.NET-0D1117?style=for-the-badge&logo=.net&labelColor=0D1117&textColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-C_#-0D1117?style=for-the-badge&logo=c_sharp&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![C#](https://img.shields.io/badge/-C_sharp-0D1117?style=for-the-badge&logo=c_sharp&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![SQL Sever](https://img.shields.io/badge/-SQL_Server-0D1117?style=for-the-badge&logo=sql_server&labelColor=0D1117)&nbsp;
 
 
 ### Mobile Skills:
-![React Native](https://img.shields.io/badge/-React-Native-0D1117?style=for-the-badge&logo=react-native&labelColor=0D1117)&nbsp;
+![React Native](https://img.shields.io/badge/-React_Native-0D1117?style=for-the-badge&logo=react_native&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
@@ -41,12 +41,12 @@
 
 
 ### Tools:
-![Visual Studio](https://img.shields.io/badge/-Visual-Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual-Studio-Code-0D1117?style=for-the-badge&logo=Visual-Studio-code&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Visual Studio](https://img.shields.io/badge/-Visual_Studio-0D1117?style=for-the-badge&logo=visual_studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-0D1117?style=for-the-badge&logo=Visual_Studio_code&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft_office&labelColor=0D1117)&nbsp;
 ![docker](https://img.shields.io/badge/-docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
  
 ### Other Knowledge:
