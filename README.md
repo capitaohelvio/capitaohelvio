@@ -27,7 +27,7 @@
 
 ### Backend Skills:
 ![.NET](https://img.shields.io/badge/-.NET-0D1117?style=for-the-badge&logo=.net&labelColor=0D1117&textColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-C#-0D1117?style=for-the-badge&logo=c_sharp&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![C#](https://img.shields.io/badge/-C_#-0D1117?style=for-the-badge&logo=c_sharp&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![SQL Sever](https://img.shields.io/badge/-SQL_Server-0D1117?style=for-the-badge&logo=sql_server&labelColor=0D1117)&nbsp;
 
 
